@@ -21,3 +21,9 @@ Off-chain services handle *matchmaking, **UI, and **non-critical state* for scal
 - *Frontend:* React.js / HTML / CSS (optional)  
 - *Blockchain:* Algorand TestNet  
 - *Wallets:* Pera, MyAlgo, AlgoSigner  
+
+## Use Cases
+
+- Casual PvP games: Chess, checkers, card games, or mini-battles with small stakes.
+- Competitive tournaments: Ladder systems or seasonal competitions with token rewards.
+- Digital collectibles: Players can earn and trade unique items or in-game currency.
